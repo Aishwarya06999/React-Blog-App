@@ -1,0 +1,107 @@
+body {
+  background: url("https://wallpaperaccess.com/full/1668874.jpg");
+}
+
+.main {
+  margin-top: 5.5rem;
+}
+
+.ui.fixed.menu {
+  /* background-color:rgb(232 198 110 / 62%); */
+  background-color: #1e1c1cb5;
+}
+
+.center {
+  color: white;
+  justify-content: center;
+  padding: 10px;
+} 
+
+.right {
+  float: right;
+}
+
+.ui.card {
+  margin-top: 5.5rem;
+  width: 80rem;
+}
+
+.cards {
+  margin-bottom: 0.2rem;
+}
+
+.tag {
+  align-self: flex-start;
+  padding: .25em .75em;
+  border-radius: 1em;
+  font-size: .75rem;
+}
+
+.tag-red {
+  background: linear-gradient(to bottom, #ef473a, #cb2d3e);
+  color: #fafafa;
+}
+
+.cards {
+  margin-top: 3rem;
+}
+
+i.icon {
+  margin-top: -1rem;
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+i.icon.left {
+  padding: 0.7em 0.8em;
+  color: black;
+  float: left;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+i.icon.left:hover {
+  transform: scale(1.5);
+  color: black;
+}
+
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
